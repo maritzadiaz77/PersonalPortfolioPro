@@ -33,6 +33,13 @@ main{
 #Work {
     padding:0 0 30px;
 }
+#change {
+    border: 7px solid rgb(70, 149, 70);
+  border-radius: 25px;
+display: flex;
+justify-content: space-around;
+
+}
 #Contact{
     padding:0 0 30px;
 }
