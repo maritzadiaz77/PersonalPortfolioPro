@@ -1,82 +1,96 @@
 /* adding media queries */
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
 }
-@media screen and (max-width: 992px)
-{    
-* {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin:0;
+@media screen and (max-width: 992px) {
+  * {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    margin: 0;
     padding-left: 0.1%;
-}   
-
+  }
 }
-body{
-    background-color:#ff99c8;
-    font-size: 16px;
-
+body {
+  background-color: #ff99c8;
+  font-size: 16px;
 }
-h1,h3{
-    color:#d0f4de;
+h1,
+h3 {
+  color: #d0f4de;
 }
-section#portrait{
-  text-align: center;  
+section#portrait {
+  text-align: center;
 }
-main{
-    padding-top: 100px;
-    width: 80%;
-    margin:0 auto;
-   
+main {
+  padding-top: 100px;
+  width: 80%;
+  margin: 0 auto;
 }
 #About {
-    padding:0 0 30px;
+  padding: 0 0 30px;
 }
 #Work {
-    padding:0 0 30px;
+  padding: 0 0 30px;
 }
-#change {
-    border: 7px solid rgb(70, 149, 70);
+#first-project {
+  border: 7px solid rgb(70, 149, 70);
   border-radius: 25px;
-display: flex;
-justify-content: space-around;
-
+  margin: 10px;
+  display: block;
+  margin: 0 auto;
 }
-#Contact{
-    padding:0 0 30px;
+.images {
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.images img {
+  margin: 50px;
+  border: 7px solid rgb(70, 149, 70);
+  border-radius: 25px;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  
+}
+#Contact {
+  padding: 0 0 30px;
 }
 header {
-    background-color: #89c8e8;
-    height: 30px;
-    padding: 10px;
-    position:fixed;
-    top: 0;
-    left:0;
-    width:100%;
+  background-color: #89c8e8;
+  height: 30px;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
-header nav{
-    text-align: right;
-    
+header nav {
+  text-align: right;
 }
 header nav ul li {
-display:inline;
-list-style-type: none;
-color: white;
-padding:0px 20px;
+  display: inline;
+  list-style-type: none;
+  color: white;
+  padding: 0px 20px;
 }
-header nav ul li a{
-    text-decoration: none;
+header nav ul li a {
+  text-decoration: none;
 }
-.color-white{
-    color:white;
+.color-white {
+  color: white;
 }
 a.color-white:hover {
-    color:purple;
+  color: purple;
 }
-footer{
-    height:50px;
-  
-    background-color:#89c8e8;
+footer {
+  height: 50px;
+
+  background-color: #89c8e8;
 }
 
 .mb-5 {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
