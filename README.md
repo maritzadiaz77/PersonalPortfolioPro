@@ -17,10 +17,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Installation
 
-This is my Github repo link 
+This is my Github repo link. 
+https://github.com/maritzadiaz77/PersonalPortfolioPro
 
 This is the link to the live project.
-
+https://maritzadiaz77.github.io/PersonalPortfolioPro/ 
 
 ## Usage
 screenshots 
