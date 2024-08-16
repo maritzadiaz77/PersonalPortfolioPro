@@ -23,12 +23,16 @@ This is the link to the live project.
 
 
 ## Usage
-
 screenshots 
+![alt text](<Assets/Maritza's Portfolio! - Google Chrome 8_15_2024 10_40_50 PM.png>)
+![alt text](<Assets/Maritza's Portfolio! - Google Chrome 8_15_2024 10_41_06 PM.png>)
+![alt text](<Assets/Maritza's Portfolio! - Google Chrome 8_15_2024 10_41_18 PM.png>)
+![alt text](<Assets/Maritza's Portfolio! - Google Chrome 8_15_2024 10_41_27 PM.png>)
+![alt text](<Assets/Maritza's Portfolio! - Google Chrome 8_15_2024 10_41_39 PM.png>)
 
 ## Credits
-
-
+I was able to understand CSS better thanks to TAs Zac and Nick for the help.
+I also referred back to our lectures by John Young.
 
 ## License
 N/A
